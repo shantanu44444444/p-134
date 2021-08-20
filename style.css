@@ -1,0 +1,34 @@
+.heading{
+    margin: 0;
+    background-color: coral;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 31px;
+    width: 100%;
+}
+
+#start , #number_of_objects , #status {
+    box-shadow: 5px 5px 5px grey;
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bolder;
+    color: seagreen;
+    border-radius: 5px;
+}
+
+.end_footer{
+    position: fixed;
+    color: indianred;
+    bottom: 0%;
+    width: 100%;
+    background-color: ivory;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    margin-top: 50px;
+    border: ivory;
+    border-radius: 20px;
+    border-width: 10px;
+    border-style: ridge;
+}
